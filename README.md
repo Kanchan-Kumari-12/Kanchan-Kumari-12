@@ -28,6 +28,9 @@ Building toward a **Blue Team / SOC Analyst** career — one lab at a time.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kanchan-Kumari-12&theme=react-dark&hide_border=true)
 
+
+![Stats](https://bad-apple-github-readme-stats.vercel.app/api?username=Kanchan-Kumari-12&show_icons=true&theme=dark)
+
 ## Streaks
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kanchan-Kumari-12&theme=dark&hide_border=true)
