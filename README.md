@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**Kanchan-Kumari-12/Kanchan-Kumari-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Kanchan 👋
 
-Here are some ideas to get you started:
+2nd-year B.Tech CSE student at Gautam Buddha University, Greater Noida.  
+Building toward a **Blue Team / SOC Analyst** career — one lab at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔵 What I'm Learning
+
+- **Network Analysis** — Wireshark, TCP/IP, DNS, CCNA (self-study)
+- **Web Security** — Burp Suite, HTTP vulnerabilities, SSL/TLS scanning
+- **Linux & Hardening** — WSL2/Ubuntu, file permissions, user access management
+- **SIEM & Monitoring** — Splunk Fundamentals, log analysis basics
+- **CTFs** — PicoCTF (Forensics → Network → OSINT focus)
+
+---
+
+## 🛠️ Tools & Tech
+
+**Security:** Wireshark · Burp Suite · Splunk · Kali Linux · TryHackMe  
+**Dev:** C++ · Python · C · React · Node.js · FastAPI · MongoDB  
+**Env:** Linux · WSL2 · Git · AWS
+
+---
+
+## 📊 GitHub Stats
+
+![Kanchan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan-Kumari-12&layout=compact&theme=dark&hide_border=true)
+
+## Streaks
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kanchan-Kumari-12&theme=dark&hide_border=true)
+
+## 📌 A Bit More
+
+- Member of **AWS Cloud Club @ GBU** — DSA Team (organizing contests, mentoring juniors)
+- CGPA: **9.08**
+- Open to **Blue Team / SOC Analyst internship** opportunities — May 2026 onward
+
+---
+
+*"Security is a process, not a product."*
