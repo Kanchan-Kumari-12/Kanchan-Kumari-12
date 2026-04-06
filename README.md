@@ -1,7 +1,7 @@
 
 # Hi, I'm Kanchan 👋
 
-2nd-year B.Tech CSE student at Gautam Buddha University, Greater Noida.  
+B.Tech CSE - 2028 student at Gautam Buddha University, Greater Noida .  
 Building toward a **Blue Team / SOC Analyst** career — one lab at a time.
 
 ---
@@ -26,7 +26,7 @@ Building toward a **Blue Team / SOC Analyst** career — one lab at a time.
 
 ## 📊 GitHub Stats
 
-![Kanchan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Kanchan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanchan-Kumari-12&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan-Kumari-12&layout=compact&theme=dark&hide_border=true)
 
