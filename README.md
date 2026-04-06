@@ -26,9 +26,7 @@ Building toward a **Blue Team / SOC Analyst** career — one lab at a time.
 
 ## 📊 GitHub Stats
 
-![Kanchan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanchan-Kumari-12&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchan-Kumari-12&layout=compact&theme=dark&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kanchan-Kumari-12&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)](https://github.com/Kanchan-Kumari-12)
 
 ## Streaks
 
